@@ -1,5 +1,20 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## JOBSHEET 7
+Nama: Rani Nabilla Putri
+
+NIM : 21343034
+
+Latihan :
+1 - 3. Mempelajari tentang pernyataan FOR.
+4 & 5. Mempelajari tentang pernyataan WHILE.
+6 - 8. Mempelajari tentang pernyataan DO-WHILE.
+9.     Mempelajari tentang Nested Loop (Perulangan Bersarang).
+
+Tugas :
+1. Cetak nama 100 kali menggunakan perulangan FOR, WHILE, dan DO WHILE.
+2. Cetak angka 1 - 100 menggunakan perulangan FOR, WHILE, dan DO WHILE.
+3. Cetak angka menggunakan NESTED LOOP (Perulangan Bersarang), dengan output sebagai berikut:
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
