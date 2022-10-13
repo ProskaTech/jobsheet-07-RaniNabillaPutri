@@ -7,7 +7,7 @@ Latihan :
 
 1 - 3. Mempelajari tentang pernyataan FOR.
 
-4 & 5. Mempelajari tentang pernyataan WHILE.
+4 - 5. Mempelajari tentang pernyataan WHILE.
 
 6 - 8. Mempelajari tentang pernyataan DO-WHILE.
 
