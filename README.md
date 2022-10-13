@@ -5,8 +5,11 @@ NIM : 21343034
 
 Latihan :
 1 - 3. Mempelajari tentang pernyataan FOR.
+
 4 & 5. Mempelajari tentang pernyataan WHILE.
+
 6 - 8. Mempelajari tentang pernyataan DO-WHILE.
+
 9.     Mempelajari tentang Nested Loop (Perulangan Bersarang).
 
 Tugas :
